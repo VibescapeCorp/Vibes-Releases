@@ -10,10 +10,10 @@
 
 <p align="center">
   <a href="https://github.com/VibescapeCorp/vibes-releases/releases/latest">
-    <img src="https://img.shields.io/github/v/release/YOUR-ORG/vibes-releases" alt="Latest Release"/>
+    <img src="https://img.shields.io/github/v/release/VibescapeCorp/vibes-releases" alt="Latest Release"/>
   </a>
-  <a href="https://github.com/YOUR-ORG/vibes-releases/releases">
-    <img src="https://img.shields.io/github/downloads/YOUR-ORG/vibes-releases/total" alt="Total Downloads"/>
+  <a href="https://github.com/VibescapeCorp/vibes-releases/releases">
+    <img src="https://img.shields.io/github/downloads/VibescapeCorp/vibes-releases/total" alt="Total Downloads"/>
   </a>
 </p>
 
@@ -25,10 +25,10 @@
 
 | Platform | Download | Requirements |
 |----------|----------|--------------|
-| 🪟 **Windows** | [Download Installer](https://github.com/YOUR-ORG/vibes-releases/releases/latest/download/VibesInstaller-v1.0.0-Windows.exe) | Windows 10 or later |
-| 🍎 **Mac** | [Download DMG](https://github.com/YOUR-ORG/vibes-releases/releases/latest/download/Vibes-v1.0.0-Mac.dmg) | macOS 10.15+ |
+| 🪟 **Windows** | [Download Installer](https://github.com/VibescapeCorp/vibes-releases/releases/latest/download/VibesInstaller-v1.0.0-Windows.exe) | Windows 10 or later |
+| 🍎 **Mac** | [Download DMG](https://github.com/VibescapeCorp/vibes-releases/releases/latest/download/Vibes-v1.0.0-Mac.dmg) | macOS 10.15+ |
 
-[View all releases](https://github.com/YOUR-ORG/vibes-releases/releases)
+[View all releases](https://github.com/VibescapeCorp/vibes-releases/releases)
 
 ---
 
@@ -82,13 +82,13 @@ Vibes is a visual engine for music that transforms your audio into stunning visu
 - 🌐 **Website:** [gotvibes.app](https://www.gotvibes.app)
 - 📧 **Email:** support@gotvibes.app
 - 💬 **Discord:** [Join our community](https://discord.gg/vibes) *(if you have one)*
-- 🐛 **Report Issues:** [GitHub Issues](https://github.com/YOUR-ORG/vibes-releases/issues)
+- 🐛 **Report Issues:** [GitHub Issues](https://github.com/VibescapeCorp/vibes-releases/issues)
 
 ---
 
 ## Changelog
 
-See [Releases](https://github.com/YOUR-ORG/vibes-releases/releases) for detailed version history.
+See [Releases](https://github.com/VibescapeCorp/vibes-releases/releases) for detailed version history.
 
 ---
 
