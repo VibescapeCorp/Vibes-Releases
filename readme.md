@@ -89,7 +89,7 @@ Vibes is a visual engine for music that transforms your audio into stunning visu
 ## Changelog
 
 See [Releases](https://github.com/VibescapeCorp/vibes-releases/releases) for detailed version history.
-See [CHANGELOG](https://github.com/VibescapeCorp/vibes-releases/CHANGELOG) for detailed changelog history.
+See [CHANGELOG](https://github.com/VibescapeCorp/Vibes-Releases/blob/main/CHANGELOG.md) for detailed changelog history.
 
 ---
 
